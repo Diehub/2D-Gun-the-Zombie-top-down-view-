@@ -1,0 +1,10 @@
+C:\Users\user\source\repos\GunZombie\GunZombie\bin\Debug\GunZombie.exe.config
+C:\Users\user\source\repos\GunZombie\GunZombie\bin\Debug\GunZombie.exe
+C:\Users\user\source\repos\GunZombie\GunZombie\bin\Debug\GunZombie.pdb
+C:\Users\user\source\repos\GunZombie\GunZombie\obj\Debug\GunZombie.csprojAssemblyReference.cache
+C:\Users\user\source\repos\GunZombie\GunZombie\obj\Debug\GunZombie.Form1.resources
+C:\Users\user\source\repos\GunZombie\GunZombie\obj\Debug\GunZombie.Properties.Resources.resources
+C:\Users\user\source\repos\GunZombie\GunZombie\obj\Debug\GunZombie.csproj.GenerateResource.cache
+C:\Users\user\source\repos\GunZombie\GunZombie\obj\Debug\GunZombie.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\GunZombie\GunZombie\obj\Debug\GunZombie.exe
+C:\Users\user\source\repos\GunZombie\GunZombie\obj\Debug\GunZombie.pdb
