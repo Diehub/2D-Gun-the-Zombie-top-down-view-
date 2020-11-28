@@ -8,3 +8,5 @@ C:\Users\user\source\repos\GunZombie\GunZombie\obj\Debug\GunZombie.csproj.Genera
 C:\Users\user\source\repos\GunZombie\GunZombie\obj\Debug\GunZombie.csproj.CoreCompileInputs.cache
 C:\Users\user\source\repos\GunZombie\GunZombie\obj\Debug\GunZombie.exe
 C:\Users\user\source\repos\GunZombie\GunZombie\obj\Debug\GunZombie.pdb
+C:\Users\user\source\repos\GunZombie\GunZombie\obj\Debug\GunZombie.Form2.resources
+C:\Users\user\source\repos\GunZombie\GunZombie\obj\Debug\GunZombie.Form3.resources
